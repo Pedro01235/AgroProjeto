@@ -1,0 +1,12 @@
+.data {
+  padding: 20px;
+}
+
+.data ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.data ul li {
+  margin-bottom: 10px;
+}
